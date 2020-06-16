@@ -1,0 +1,14 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of angular-codegen
+ */
+export { AngularElementCodeGenService } from './lib/element/angular-element-codegen.service';
+export { AngularElementCodeGenModule } from './lib/element/angular-element-codegen.module';
+export { AngularDocGenService } from './lib/angular-docgen.service';
+export { AngularBootstrapService } from './lib/angular-bootstrap.service';
+export { AngularCodeGenService } from './lib/angular-codegen.service';
+export { AngularCodeGenModule } from './lib/angular-codegen.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0B4bGF5ZXJzL2FuZ3VsYXItY29kZWdlbi8iLCJzb3VyY2VzIjpbInB1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7OztBQUlBLDZDQUFjLCtDQUErQyxDQUFDO0FBQzlELDRDQUFjLDhDQUE4QyxDQUFDO0FBQzdELHFDQUFjLDhCQUE4QixDQUFDO0FBQzdDLHdDQUFjLGlDQUFpQyxDQUFDO0FBQ2hELHNDQUFjLCtCQUErQixDQUFDO0FBQzlDLHFDQUFjLDhCQUE4QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcclxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIGFuZ3VsYXItY29kZWdlblxyXG4gKi9cclxuXHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL2VsZW1lbnQvYW5ndWxhci1lbGVtZW50LWNvZGVnZW4uc2VydmljZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL2VsZW1lbnQvYW5ndWxhci1lbGVtZW50LWNvZGVnZW4ubW9kdWxlJztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvYW5ndWxhci1kb2NnZW4uc2VydmljZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL2FuZ3VsYXItYm9vdHN0cmFwLnNlcnZpY2UnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9hbmd1bGFyLWNvZGVnZW4uc2VydmljZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL2FuZ3VsYXItY29kZWdlbi5tb2R1bGUnO1xyXG4iXX0=

@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { AngularElementCodeGenService, AngularElementCodeGenModule, AngularDocGenService, AngularBootstrapService, AngularCodeGenService, AngularCodeGenModule } from './public_api';
+export { AngularAggregatorService as ɵb } from './lib/angular-aggregator.service';
+export { AngularElementAggregatorService as ɵa } from './lib/element/angular-element-aggregator.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoieGxheWVycy1hbmd1bGFyLWNvZGVnZW4uanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AeGxheWVycy9hbmd1bGFyLWNvZGVnZW4vIiwic291cmNlcyI6WyJ4bGF5ZXJzLWFuZ3VsYXItY29kZWdlbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsc0tBQWMsY0FBYyxDQUFDO0FBRTdCLE9BQU8sRUFBQyx3QkFBd0IsSUFBSSxFQUFFLEVBQUMsTUFBTSxrQ0FBa0MsQ0FBQztBQUNoRixPQUFPLEVBQUMsK0JBQStCLElBQUksRUFBRSxFQUFDLE1BQU0sa0RBQWtELENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcbiAqIEdlbmVyYXRlZCBidW5kbGUgaW5kZXguIERvIG5vdCBlZGl0LlxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vcHVibGljX2FwaSc7XG5cbmV4cG9ydCB7QW5ndWxhckFnZ3JlZ2F0b3JTZXJ2aWNlIGFzIMm1Yn0gZnJvbSAnLi9saWIvYW5ndWxhci1hZ2dyZWdhdG9yLnNlcnZpY2UnO1xuZXhwb3J0IHtBbmd1bGFyRWxlbWVudEFnZ3JlZ2F0b3JTZXJ2aWNlIGFzIMm1YX0gZnJvbSAnLi9saWIvZWxlbWVudC9hbmd1bGFyLWVsZW1lbnQtYWdncmVnYXRvci5zZXJ2aWNlJzsiXX0=

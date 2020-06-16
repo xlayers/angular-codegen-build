@@ -1,0 +1,15 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+import { NgModule } from '@angular/core';
+import { WebCodeGenModule } from '@xlayers/web-codegen';
+import { AngularCodeGenModule } from '../angular-codegen.module';
+export class AngularElementCodeGenModule {
+}
+AngularElementCodeGenModule.decorators = [
+    { type: NgModule, args: [{
+                imports: [WebCodeGenModule, AngularCodeGenModule]
+            },] }
+];
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYW5ndWxhci1lbGVtZW50LWNvZGVnZW4ubW9kdWxlLmpzIiwic291cmNlUm9vdCI6Im5nOi8vQHhsYXllcnMvYW5ndWxhci1jb2RlZ2VuLyIsInNvdXJjZXMiOlsibGliL2VsZW1lbnQvYW5ndWxhci1lbGVtZW50LWNvZGVnZW4ubW9kdWxlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7QUFBQSxPQUFPLEVBQUUsUUFBUSxFQUFFLE1BQU0sZUFBZSxDQUFDO0FBQ3pDLE9BQU8sRUFBRSxnQkFBZ0IsRUFBRSxNQUFNLHNCQUFzQixDQUFDO0FBQ3hELE9BQU8sRUFBRSxvQkFBb0IsRUFBRSxNQUFNLDJCQUEyQixDQUFDO0FBS2pFLE1BQU0sT0FBTywyQkFBMkI7OztZQUh2QyxRQUFRLFNBQUM7Z0JBQ1IsT0FBTyxFQUFFLENBQUMsZ0JBQWdCLEVBQUUsb0JBQW9CLENBQUM7YUFDbEQiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBOZ01vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xyXG5pbXBvcnQgeyBXZWJDb2RlR2VuTW9kdWxlIH0gZnJvbSAnQHhsYXllcnMvd2ViLWNvZGVnZW4nO1xyXG5pbXBvcnQgeyBBbmd1bGFyQ29kZUdlbk1vZHVsZSB9IGZyb20gJy4uL2FuZ3VsYXItY29kZWdlbi5tb2R1bGUnO1xyXG5cclxuQE5nTW9kdWxlKHtcclxuICBpbXBvcnRzOiBbV2ViQ29kZUdlbk1vZHVsZSwgQW5ndWxhckNvZGVHZW5Nb2R1bGVdXHJcbn0pXHJcbmV4cG9ydCBjbGFzcyBBbmd1bGFyRWxlbWVudENvZGVHZW5Nb2R1bGUge31cclxuIl19
